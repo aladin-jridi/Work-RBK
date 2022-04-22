@@ -1,0 +1,30 @@
+.logo{
+	   width: 250px;
+	   height: 250px;
+}
+
+.container
+{
+     margin-left : 40%;
+     margin-top : 5%;
+}
+.container input { 
+	height: 50px;
+	width: 250px;
+    margin-bottom: 5px;
+    border-radius: 0.4pc ; 
+    border-color: #f2f7f0;
+    background-color: #fcfdff;
+}
+
+.container input:hover{
+	height: 50px;
+	width: 265px;
+	background-color: #C6EF7A;
+	align-items: center;
+
+}
+
+body{
+	background-color: #f2f7f0;
+}
